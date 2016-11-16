@@ -22,6 +22,7 @@
     "helmet": "^2.3.0",
     "nconf": "^0.8.4",
     "neo4j-driver": "^1.1.0-M02",
+    "node-uuid": "^1.4.7",
     "ramda": "^0.22.1"
   },
   "devDependencies": {
